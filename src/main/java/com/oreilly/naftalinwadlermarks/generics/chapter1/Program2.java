@@ -1,4 +1,4 @@
-// pg 5
+// Generic Types | pg 5
 package com.oreilly.naftalinwadlermarks.generics.chapter1;
 
 import java.util.ArrayList;
